@@ -6,7 +6,7 @@ header {
 }
 
 #nav-h1 {
-    background-color: #F66354;
+    background-color: #4aaaa5;
     color: white;
     padding: 10px;
 }
@@ -58,13 +58,14 @@ html, body {
 
 
 .MainSection {
-    width: 638px;
-    float: left;
-    position: relative;
-    top: 50px; 
-	background-color: white;
-    border: 1px solid black; 
-    padding: 5px;
+   width: 638px;
+   float: left;
+   position: relative;
+   top: 50px; 
+	 background-color: white;
+   border: 1px solid black; 
+   padding: 5px;
+   margin-bottom: 50px;
 
 }
 
@@ -109,6 +110,7 @@ a:hover {
 a:active {
     text-decoration: underline;
 }
+
 
 footer {
     width: 100%;
@@ -198,7 +200,7 @@ textarea {
 button {
   /* This extra magin represent the same space as the space between
     the labels and their text fields */
-    background-color: #F66354; 
+    background-color: #4aaaa5; 
     border: none;
     color: white;
     padding: 15px 32px;
@@ -250,7 +252,7 @@ left: 10px;
     padding-top: 15px; 
     text-align: center;
     color: white;
-    background-color: #F66354; 
+    background-color: #4aaaa5; 
 }
  
  
