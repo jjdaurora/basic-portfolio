@@ -40,11 +40,9 @@ li {
 
 /**shared elements */
 
-html, body {
-    height: 100%;
+html {
     margin: 0;
     font-family: 'Raleway', sans-serif;
-    
 
 }
 
@@ -55,9 +53,8 @@ html, body {
     line-height: 150%;
 }
 
-
-
 .MainSection {
+
    width: 638px;
    float: left;
    position: relative;
@@ -112,19 +109,16 @@ a:active {
 }
 
 
+
 footer {
+    margin-top: 60%;
     width: 100%;
-    position: absolute;
     background-color: gray;
     color: white;
     height: 90px;
-    padding: 10px 0px 5px 0px;
-    bottom: 0;
     text-align: center;
     border-top: 10px solid #4aaaa5;
-}
-
-/*index.html */
+} 
 
 .profile-pic {
     float: left;
@@ -133,9 +127,6 @@ footer {
     padding: 15px 5px 0px 0px;
     margin: 10px;
 }
-
-
-
 
 /*contact.html form*/
 
